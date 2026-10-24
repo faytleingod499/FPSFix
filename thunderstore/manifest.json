@@ -1,0 +1,9 @@
+{
+    "name": "FPS_Fix",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/faytleingod499/FPSFix",
+    "description": "Stops the game slowing down the longer you play. Cleans out the tables of characters that are gone, which pile up all session and make every frame cost more. Client side, works on any server. This mod was created with the assistance of AI.",
+    "dependencies": [
+        "NotNet-GDWeave-2.0.14"
+    ]
+}

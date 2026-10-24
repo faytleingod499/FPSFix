@@ -1,0 +1,10 @@
+{
+    "Id": "FPSFix",
+    "PackPath": "FPSFix.pck",
+    "Metadata": {
+        "Name": "FPS Fix",
+        "Author": "Fayt",
+        "Version": "1.0.0",
+        "Description": "Stops the game slowing down the longer you play. Cleans out the tables of characters that are gone, which pile up all session and make every frame cost more. Client side, works on any server. This mod was created with the assistance of AI."
+    }
+}
