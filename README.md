@@ -30,3 +30,7 @@ godot --no-window -s pack.gd
 ```
 
 `build.sh` makes `out/FPSFix-mod.zip` (drop the folder into `GDWeave/mods`) and `out/FPSFix-<version>.zip` (the Thunderstore upload).
+
+## License
+
+[MIT](LICENSE): you are free to copy, change and share your own versions of this mod, as long as you keep the copyright notice.
